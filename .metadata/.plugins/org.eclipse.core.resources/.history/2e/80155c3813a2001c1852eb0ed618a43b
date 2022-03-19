@@ -1,0 +1,11 @@
+package fundamentos;
+
+public class Temperaturas {
+	public static void main(String[] args) {
+	// (°F-32) x 5/9 = °C
+		double F = 100;
+		final double C = -32;
+		final double V = 5/9.0;
+		System.out.println(V);
+	}
+}
